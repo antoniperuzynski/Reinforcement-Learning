@@ -7,7 +7,7 @@ Class instructor: <i> dr inż. Przemysław Sekuła</i>.
 
 Projects were based on code from class instructor: [https://github.com/PrzemekSekula/ReinfocementLearningClasses](https://github.com/PrzemekSekula/ReinfocementLearningClasses) and on <i> Reinforcement Learning: An Introduction by R. S Sutton and A. G. Barto book </i>.
 
-Has 5 branches each for 1 project.
+Has 5 project.
   1. K Arm Bandit.
   2. Dynamic Programming.
   3. Monte Carlo.
