@@ -15,3 +15,5 @@ Has 5 project.
   5. Linear Regression.
      
 Comments in a code and variables can be written in Polish Language.
+=======
+
